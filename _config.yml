@@ -1,9 +1,9 @@
 # Site settings
 title: 小伍的第一个网站
-SEOTitle: 路漫漫其修道远，吾将上下而求索
+SEOTitle: 小伍的第一个网站
 header-img: img/post-bg-desk.jpg
 email: 2218350570@qq.com
-description: "学无止境"
+description: "路漫漫其修道远，吾将上下而求索"
 keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
 url: "https://TornTheWound.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
